@@ -1,0 +1,8 @@
+static file- the files which are on the client side .
+
+
+dynamic file-thefiles which are updated in the realtime and are handled on the bcakend side .
+
+
+
+pl-
