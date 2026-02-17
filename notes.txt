@@ -5,4 +5,39 @@ dynamic file-thefiles which are updated in the realtime and are handled on the b
 
 
 
-pl-
+pl-presentation layer ;
+
+(ctrl + u) to get the source code .
+
+variables are needed to assign something ;
+
+dom are two types structural dom and virtual dom 
+
+the dom is used to access the elemnt in a tree like structure from the dom in heirarchial structures.
+
+how to difference between dynamic and dynamic type . 
+
+
+collection of function is called modules ,
+
+working of packages , import the model from packages use in a folder and use it 
+
+props drilling 
+used to transmit data from one component to another component
+
+"${}"
+
+
+const {name , email}=req.body; destructuring , 
+
+port number where the application is running in my system , 
+
+
+
+graph api runs on apollo server .
+
+
+
+
+
+
